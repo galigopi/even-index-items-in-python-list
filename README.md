@@ -1,0 +1,1 @@
+# even-index-items-in-python-list
